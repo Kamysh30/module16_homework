@@ -1,0 +1,29 @@
+{
+  "name": "module16_homework",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "@babel/core": "^7.12.10",
+    "@babel/preset-env": "^7.12.10",
+    "babel-jest": "^26.6.3",
+    "jest": "^26.6.3"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kamysh30/module16_homework.git"
+  },
+  "keywords": [
+    "kamysh30"
+  ],
+  "author": "kamysh30",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kamysh30/module16_homework/issues"
+  },
+  "homepage": "https://github.com/Kamysh30/module16_homework#readme"
+}
